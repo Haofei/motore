@@ -2,6 +2,7 @@
 
 [![Crates.io](https://img.shields.io/crates/v/motore)](https://crates.io/crates/motore)
 [![Documentation](https://docs.rs/motore/badge.svg)](https://docs.rs/motore)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/cloudwego/motore)
 [![License](https://img.shields.io/crates/l/motore)](#license)
 [![Build Status][actions-badge]][actions-url]
 
